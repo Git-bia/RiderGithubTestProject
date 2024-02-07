@@ -20,11 +20,5 @@ namespace CSharpLearning
             Debug.Log(str1);    //C:\Windows
             Debug.Log(str2);    //C:\Windows
         }
-        
-        // Useless Code
-        // Useless Code
-        // Useless Code
-        // Useless Code
-        // Useless Code
     }
 }
